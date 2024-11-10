@@ -1,0 +1,15 @@
+/* Estilo para dispositivos móviles */
+@media (max-width: 767px) {
+    .logo img {
+        height: 60px; /* Reducción del tamaño en dispositivos móviles */
+        width: 60px;  /* Asegura que el logo siga siendo proporcional */
+    }
+   
+        .header-top {
+            padding: 10px 0; /* Reduce el padding en pantallas pequeñas */
+        }
+        
+        .header-mid {
+            padding: 20px 0; /* Ajuste adicional de padding en la sección central */
+        }
+    }
