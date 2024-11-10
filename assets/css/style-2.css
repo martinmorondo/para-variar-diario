@@ -12,4 +12,25 @@
         .header-mid {
             padding: 20px 0; /* Ajuste adicional de padding en la sección central */
         }
+
+        .whats-news-area .whats-right-single .whats-right-img img {
+            height: 500px;
+            width: 500px;
+        }
+
+        .most-recent-area .most-recent-single .most-recent-images img {
+            height: 150px !important;
+            width: 150px !important;
+        }
+
+        /* .weekly2-news-area .container .weekly2-wrapper .weekly2-news-active .weekly2-single img {
+            height: 200px !important;
+            width: 300px !important;
+        } */
+
+        .recent-articles .container .recent-wrapper .recent-active .single-recent .what-img img {
+            height: 450px !important;
+            width: 400px !important;
+        }
+
     }
