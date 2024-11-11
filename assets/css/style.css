@@ -19,4 +19,11 @@
             width: 300px !important;
             height: 200px !important;
         }
+
+        .about-area2 .container .row .col-lg-8 .about-right .about-prea .news-video {
+            width: 330px !important;
+            height: 200px !important;
+            margin-bottom: 30px;
+            /* align-content: center; */
+        }
     }
